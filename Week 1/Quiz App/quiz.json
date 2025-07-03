@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Which country hosted the 2022 FIFA World Cup?",
+    "options": ["Brazil", "Russia", "Qatar", "Germany"],
+    "answer": "Qatar"
+  },
+  {
+    "question": "Who developed the theory of general relativity?",
+    "options": ["Isaac Newton", "Albert Einstein", "Stephen Hawking", "Nikola Tesla"],
+    "answer": "Albert Einstein"
+  },
+  {
+    "question": "Which gas is most abundant in Earth's atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Nitrogen"
+  },
+  {
+    "question": "In which year did India gain independence from British rule?",
+    "options": ["1945", "1947", "1950", "1952"],
+    "answer": "1947"
+  },
+  {
+    "question": "Which element has the chemical symbol 'Fe'?",
+    "options": ["Iron", "Fluorine", "Francium", "Fermium"],
+    "answer": "Iron"
+  }
+]
