@@ -14,6 +14,8 @@ No setup needed. Tailwind CDN is already linked in `Quiz App`, no install requir
 
 -Uses Tailwind CSS compiled via CLI
 
+-cd "Week 2"
+
 -Install dependencies : npm install
 
 -Start Tailwind in watch mode : npx tailwindcss -i ./input.css -o ./output.css --watch
@@ -26,6 +28,10 @@ No setup needed. Tailwind CDN is already linked in `Quiz App`, no install requir
 - **Profile-Card**
 
 -Uses Tailwind CSS via @tailwindcss/vite plugin (no Tailwind CLI)
+
+-cd "Week 3"
+
+-cd "Carousel" or cd "Profile-Card"
 
 -Install Dependencies : npm install
 
