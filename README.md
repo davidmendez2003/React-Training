@@ -11,6 +11,7 @@ No setup needed. Tailwind CDN is already linked in `Quiz App`, no install requir
 - **Drag and Drop**
 - **Kanban Board**
 - **To-Do App**
+- **Nested Structure**
 
 -Uses Tailwind CSS compiled via CLI
 
