@@ -1,0 +1,11 @@
+
+  {
+    "name": "Mark Zuckerberg",
+    "photo": "/images/profile.png",
+    "role":"CEO of Meta",
+    "bio": "Tech creator who loves building apps that connect people",
+    "phone": "+91 98765 43210",
+    "location":"USA",
+    "email": "mzuckerberg@gmail.com"
+  }
+
