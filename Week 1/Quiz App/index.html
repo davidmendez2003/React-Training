@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quizzy</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="script.js" defer></script>
+  </head>
+
+  <body class="font-[\'Times\_New\_Roman\'] bg-teal-400 text-white h-full m-0 p-0 flex flex-col">
+
+    <main class="flex justify-center">
+
+      <div class="bg-white w-[1000px] h-[500px] border border-black rounded-lg shadow-[0_10px_16px_0_rgba(0,0,0,0.2)] p-8 mt-[200px] flex flex-col items-center">
+        <div><img src="logo.png" class="w-[250px] h-[70px]" /></div>
+
+        <div class="mt-[150px] flex flex-col gap-[50px] items-center" id="welcomePage">
+          <strong class="block text-black text-[35px]">Welcome to the Ultimate Quiz Challenge!</strong>
+          <button type="button" id="startButton" class="text-black font-semibold bg-amber-50 w-[200px] h-[40px] text-[15px] rounded-lg border border-teal-400 hover:bg-teal-400 transition duration-1000 cursor-pointer">Start Quiz</button>
+        </div>
+
+        <div class="flex-col items-center m-auto hidden" id="questions"></div>
+      </div>
+
+    </main>
+
+  </body>
+</html>
