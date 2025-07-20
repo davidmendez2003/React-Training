@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "image": "/images/burger.png",
+    "name": "Classic Beef Burger",
+    "description": "A juicy beef burger with cheddar, lettuce, and tomato served on a toasted bun.",
+    "rating": "★★★★☆"
+  },
+  {
+    "id": 2,
+    "image": "/images/pizza.png",
+    "name": "Margherita Pizza",
+    "description": "A thin crust pizza topped with mozzarella, tomato sauce, and fresh basil.",
+    "rating": "★★★★★"
+  },
+  {
+    "id": 3,
+    "image": "/images/pasta.png",
+    "name": "Creamy Alfredo Pasta",
+    "description": "Pasta tossed in a creamy garlic parmesan sauce with a hint of parsley.",
+    "rating": "★★★★☆"
+  },
+  {
+    "id": 4,
+    "image": "/images/sushi.png",
+    "name": "Salmon Sushi Roll",
+    "description": "Fresh salmon, avocado, and rice wrapped in seaweed and served with soy sauce.",
+    "rating": "★★★★★"
+  },
+  {
+    "id": 5,
+    "image": "/images/salad.png",
+    "name": "Greek Salad",
+    "description": "A crisp salad with cucumber, feta, tomato, olives, and a light dressing.",
+    "rating": "★★★☆☆"
+  },
+  {
+    "id": 6,
+    "image": "/images/cake.png",
+    "name": "Chocolate Lava Cake",
+    "description": "A warm cake with a gooey chocolate center, perfect with ice cream.",
+    "rating": "★★★★★"
+  }
+]
