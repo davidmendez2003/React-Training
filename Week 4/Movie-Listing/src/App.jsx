@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import {useDebounce} from "react-use";
 import Search from "./components/Search.jsx";
-import MovieCard from "./components/MovieCard.jsx";
+
 
 function App() {
   const API_URL = "https://api.themoviedb.org/3";
